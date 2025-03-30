@@ -1,4 +1,4 @@
->## THEORY CAN ONLY TAKE YOU `SO FAR`
+>## THEORY WILL TAKE YOU ONLY `SO FAR`
 
 <!--
 **ARRVINDHPK/ARRVINDHPK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
